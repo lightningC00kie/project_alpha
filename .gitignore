@@ -1,0 +1,19 @@
+# Ignore intermediate files
+Intermediate/
+Saved/
+
+# Ignore binaries
+Binaries/
+
+# Ignore build files
+Build/
+
+# Ignore other common temp files
+*.pdb
+*.suo
+*.user
+*.userprefs
+*.vscode
+
+# Ignore the DerivedDataCache
+DerivedDataCache/
